@@ -6,4 +6,5 @@ int main(){
     goo();
     zoo();
 
+    printf("test func\n");
 }
