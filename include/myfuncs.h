@@ -6,4 +6,5 @@ void goo();
 
 void foo();
 
+void zoo();
 #endif // __MUFUNCS_H__
