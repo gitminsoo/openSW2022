@@ -14,4 +14,5 @@ int main(){
     printf("test func\n");
 
     print("chanre test\n");
+  printf("some change");
 }
