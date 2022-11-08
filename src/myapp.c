@@ -6,6 +6,12 @@ int main(){
    {
     foo();
     goo();
+
   }
 
+    zoo();
+
+    printf("test func\n");
+
+    print("chanre test\n");
 }
